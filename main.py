@@ -11,7 +11,7 @@ st.set_page_config(page_title="Mental Health Treatment Plan Generator",
 
 
 def main():
-    st.title("🧠 Mental Health Treatment Plan Generator")
+    st.title("🧠 Mental Health Treatment Plan Generator 🧠")
 
     st.warning("""
     **Medical Disclaimer**: This is an educational tool only. All treatment plans generated should be reviewed by a licensed mental health professional. 
