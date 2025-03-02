@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-03-02T06:22:37.295017",
+  "assessment_data": {
+    "patient_info": {
+      "name": "John Doe",
+      "age": 13,
+      "gender": "Male",
+      "primary_complaint": "Anger",
+      "duration": "2"
+    },
+    "assessment_scores": {
+      "academic_stress": 5,
+      "exam_anxiety": 5,
+      "sleep": 5,
+      "concentration": 5,
+      "physical_symptoms": 5,
+      "study_routine": 5,
+      "support_system": 5,
+      "confidence": 5,
+      "time_management": 5,
+      "coping_mechanisms": 5
+    }
+  },
+  "treatment_plan": {
+    "summary": "This treatment plan addresses John Doe's anger and underlying academic stress, exam anxiety, and related challenges impacting his well-being and academic performance. The focus is on developing coping strategies, improving time management, and enhancing study habits to reduce stress and improve overall functioning.",
+    "goals": [
+      "Reduce feelings of anger and frustration related to academic pressure.",
+      "Improve time management skills to create a better study-life balance.",
+      "Develop effective coping mechanisms for managing exam anxiety.",
+      "Enhance concentration and focus during study sessions.",
+      "Improve academic performance and increase feelings of self-efficacy."
+    ],
+    "interventions": [
+      "Cognitive Behavioral Therapy (CBT) techniques to identify and modify negative thought patterns related to academic performance and expectations.",
+      "Anger management techniques: including relaxation exercises, impulse control strategies, and communication skills training.",
+      "Time management training: Teaching prioritization, scheduling, and organizational skills to improve study habits and reduce procrastination.",
+      "Mindfulness and relaxation exercises: Practicing mindfulness meditation and deep breathing techniques to reduce anxiety and promote relaxation.",
+      "Exam anxiety reduction strategies: Developing coping mechanisms for managing test anxiety, such as visualization and positive self-talk.",
+      "Study skills training: Improving study habits, note-taking skills, and test-taking strategies to enhance academic performance.",
+      "Family therapy sessions: involving parents to address expectations, improve communication, and create a supportive home environment for academic success."
+    ],
+    "progress_tracking": "Progress will be tracked through weekly self-report questionnaires assessing anger levels, anxiety, stress, and academic performance. Regular monitoring of grades and teacher feedback will also be incorporated. Treatment effectiveness will be evaluated through a combination of subjective reports and objective academic measures."
+  }
+}
